@@ -4,11 +4,15 @@
  <img alt="Imagen de perfil de github" src="YOUR-DEFAULT-IMAGE">
 </picture> -->
 
-# Sobre mi
-Soy Mauro, llevo 3 años en el mundo de la programación.
+# Hola! soy Mauro Gabriel Perez
 
-## Tecnologías que uso
+## Lenguajes y tecnologías utilizadas
 - JavaScript
 - NodeJS
-- Visual Studio Code
 - MongoDB
+- HTML y CSS
+- Visual Studio Code
+- MongoDB Atlas
+- Git y GitHub
+
+<!-- Seguir Actualizando la informacion -->
