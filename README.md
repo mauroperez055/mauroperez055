@@ -5,7 +5,7 @@
 </picture> -->
 
 # Sobre mi
-Soy Mauro, llevo 3 años en el mundo de la programación, cada dias mas convencido de que este es el camino indicado para mi...
+Soy Mauro, llevo 3 años en el mundo de la programación.
 
 ## Tecnologías que uso
 - JavaScript
