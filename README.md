@@ -4,5 +4,11 @@
  <img alt="Imagen de perfil de github" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
-## Sobre mi
+# Sobre mi
 Soy Mauro, llevo 3 años en el mundo de la programación, cada dias mas convencido de que este es el camino indicado para mi...
+
+## Tecnologías que uso
+- JavaScript
+- NodeJS
+- Visual Studio Code
+- MongoDB
