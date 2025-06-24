@@ -19,6 +19,7 @@
 
 ![Mauro's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauroperez055&show_icons=true&theme=github_dark_dimmed)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauroperez055&layout=compact&theme=github_dark_dimmed)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mauroperez055&theme=discord&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Contacto
 - mauroperez055@gmail.com
