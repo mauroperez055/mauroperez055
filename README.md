@@ -3,8 +3,7 @@
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
  <img alt="Imagen de perfil de github" src="YOUR-DEFAULT-IMAGE">
 </picture> -->
-
-# Mauro Gabriel Perez
+<h1 align="center">Mauro Gabriel Perez</h1>
 
 ## Contacto
 - mauroperez055@gmail.com
