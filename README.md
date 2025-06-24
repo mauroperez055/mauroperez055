@@ -7,7 +7,7 @@
 # Mauro Gabriel Perez
 
 ## Lenguajes y tecnologías utilizadas
-[![My Skills](https://skillicons.dev/icons?i=autocad,c,git,github,html,css,js,mongodb,mysql,nodejs,npm,php,vscode,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=autocad,c,git,github,java,html,css,js,mongodb,mysql,nodejs,npm,php,vscode,idea)](https://skillicons.dev)
 
 
 ## 📊 GitHub Stats
