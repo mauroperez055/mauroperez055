@@ -7,13 +7,8 @@
 # Mauro Gabriel Perez
 
 ## Lenguajes y tecnologías utilizadas
-- JavaScript
-- NodeJS
-- MongoDB
-- HTML y CSS
-- Visual Studio Code
-- MongoDB Atlas
-- Git y GitHub
+[![My Skills](https://skillicons.dev/icons?i=autocad,c,git,github,html,css,js,mongodb,mysql,nodejs,npm,php,vscode,idea)](https://skillicons.dev)
+
 
 ## 📊 GitHub Stats
 
