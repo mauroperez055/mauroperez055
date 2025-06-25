@@ -1,8 +1,4 @@
-<!-- <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAG">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="Imagen de perfil de github" src="YOUR-DEFAULT-IMAGE">
-</picture> -->
+
 <h1 align="center">Mauro Gabriel Perez</h1>
 
 ## Contacto
