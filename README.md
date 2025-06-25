@@ -1,3 +1,5 @@
+![foto](colorful-abstract-code-symbols-background-c6krm08psibwb08n.jpg)
+
 
 <h1 align="center">Mauro Gabriel Perez</h1>
 
