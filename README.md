@@ -1,5 +1,4 @@
-
-<img src="colorful-abstract-code-symbols-background-c6krm08psibwb08n.jpg" alt="imagen" style="width: 100%; height: 300px; object-fit: cover;"/>
+![imagen](imagen.jpg)
 
 <h1 align="center">Mauro Gabriel Perez</h1>
 
