@@ -1,5 +1,3 @@
-![imagen](imagen.jpg)
-
 <h1 align="center">Mauro Gabriel Perez</h1>
 
 ## Contacto
