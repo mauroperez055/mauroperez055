@@ -4,7 +4,7 @@
 - mauroperez055@gmail.com
 
 ## Lenguajes y tecnologías utilizadas
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,mongodb,mysql,nodejs,npm,git,github,vscode,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,mongodb,mysql,nodejs,react,npm,git,github,vscode,idea)](https://skillicons.dev)
 
 
 ## 📊 GitHub Stats
