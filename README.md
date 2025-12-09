@@ -3,7 +3,7 @@
 ## Contacto
 - mauroperez055@gmail.com
 
-## Lenguajes y tecnologías utilizadas
+## Lenguajes / tecnologías conocidas
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,mongodb,mysql,nodejs,react,npm,git,github,vscode,idea)](https://skillicons.dev)
 
 
