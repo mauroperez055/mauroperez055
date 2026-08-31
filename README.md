@@ -1,8 +1,8 @@
 # 👋 Hola, soy Mauro Perez
 
-💻 **Desarrollador de Software | Estudiante de programación**
+💻 **Estudiante de Desarrollo de Software**
 
-Me interesa el desarrollo de aplicaciones web, especialmente el desarrollo **Full Stack**, y actualmente continúo ampliando mis conocimientos en desarrollo backend, bases de datos y arquitectura de aplicaciones.
+Me interesa el desarrollo de aplicaciones web, especialmente el desarrollo **Full Stack**, y actualmente continúo ampliando mis conocimientos en backend, bases de datos y arquitectura de aplicaciones.
 
 ---
 
