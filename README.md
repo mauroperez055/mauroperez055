@@ -31,7 +31,7 @@ Sistema de gestión para instituciones educativas, enfocado en digitalizar y sim
 
 Aplicación web orientada a **rotiserías, restaurantes, casas de comidas, comedores y empresas**, que permite publicar y consultar fácilmente el menú semanal.
 
-  ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white)
+  ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=black)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
