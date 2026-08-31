@@ -1,8 +1,9 @@
-# 👋 Hola, soy Mauro Perez
+# Mauro Gabriel Perez
 
 💻 **Estudiante de Desarrollo de Software**
 
 Me interesa el desarrollo de aplicaciones web, especialmente el desarrollo **Full Stack**, y actualmente continúo ampliando mis conocimientos en backend, bases de datos y arquitectura de aplicaciones.
+
 
 ---
 
@@ -14,13 +15,15 @@ Sistema de gestión para instituciones educativas, enfocado en digitalizar y sim
 
 **Tecnologías:**
 
-<p>
-  <img title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35"/>
-  <img title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35"/>
-  <img title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35"/>
-  <img title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35"/>
-  <img title="Prisma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="35"/>
-</p>
+
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+  ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=ffffff)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=ffffff)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+  ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=ffffff)
+  ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=ffffff)
+
 
 🔗 [Ver repositorio](#)
 
@@ -33,9 +36,9 @@ Aplicación web orientada a **rotiserías, restaurantes, casas de comidas, comed
 **Tecnologías:**
 
 <p>
-  <img title="Astro" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" width="35"/>
-  <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/>
-  <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35"/>
+  ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 </p>
 
 🔗 [Ver repositorio](#)
