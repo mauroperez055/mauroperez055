@@ -42,11 +42,6 @@ Aplicación web orientada a **rotiserías, restaurantes, casas de comidas, comed
 # 📫 Contacto
 
 <p>
-  <a href="https://github.com/mauroperez055">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35"/>
-  </a>
-</p>
-<p>
   E-mail: mauroperez055@gmail.com
 </p>
 
