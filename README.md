@@ -55,11 +55,6 @@ Aplicación web orientada a **rotiserías, restaurantes, casas de comidas, comed
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mauroperez055&show_icons=true&theme=transparent" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauroperez055&layout=compact&theme=transparent" height="170"/>
-</p>
-
 ---
 
 # 📫 Contacto
