@@ -16,10 +16,10 @@ Sistema de gestión para instituciones educativas, enfocado en digitalizar y sim
 
 <p>
   <img title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="35"/>
+  <img title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35"/>
+  <img title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35"/>
+  <img title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35"/>
+  <img title="Prisma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="35"/>
 </p>
 
 🔗 [Ver repositorio](#)
@@ -33,9 +33,9 @@ Aplicación web orientada a **rotiserías, restaurantes, casas de comidas, comed
 **Tecnologías:**
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35"/>
+  <img title="Astro" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" width="35"/>
+  <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/>
+  <img title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35"/>
 </p>
 
 🔗 [Ver repositorio](#)
@@ -51,10 +51,6 @@ Aplicación web orientada a **rotiserías, restaurantes, casas de comidas, comed
 * 🔹 Prisma
 * 🔹 Arquitectura de aplicaciones
 * 🔹 Desarrollo Full Stack
-
----
-
-# 📊 GitHub Stats
 
 ---
 
