@@ -39,18 +39,6 @@ Aplicación web orientada a **rotiserías, restaurantes, casas de comidas, comed
 
 ---
 
-# 📚 Actualmente aprendiendo
-
-* 🔹 TypeScript
-* 🔹 Backend con Node.js y Java
-* 🔹 Astro
-* 🔹 PostgreSQL
-* 🔹 Prisma
-* 🔹 Arquitectura de aplicaciones
-* 🔹 Desarrollo Full Stack
-
----
-
 # 📫 Contacto
 
 <p>
