@@ -1,5 +1,7 @@
 # Mauro Gabriel Perez
 
+![](https://komarev.com/ghpvc/?username=mauroperez055)
+
 💻 **Estudiante de Desarrollo de Software**
 
 Me interesa el desarrollo de aplicaciones web, especialmente el desarrollo **Full Stack**, y actualmente continúo ampliando mis conocimientos en backend, bases de datos y arquitectura de aplicaciones.
