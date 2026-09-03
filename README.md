@@ -1,6 +1,4 @@
-# Mauro Perez
-
-![](https://komarev.com/ghpvc/?username=mauroperez055)
+# Mauro Gabriel Perez
 
 💻 **Estudiante de Desarrollo de Software** | 🤖 **Desarrollo + Inteligencia Artificial**
 
