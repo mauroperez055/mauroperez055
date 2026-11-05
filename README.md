@@ -57,5 +57,4 @@ Me gusta experimentar con nuevas tecnologías y utilizar diferentes herramientas
 
 ### 📫 Contacto
 
-💼 GitHub: [@mauroperez055](https://github.com/mauroperez055)
 📫 Correo: mauroperez055@gmail.com
