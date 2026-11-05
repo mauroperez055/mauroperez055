@@ -1,22 +1,16 @@
-# Mauro Gabriel Perez
+# Hola!, Soy Mauro Gabriel Perez
 
-💻 **Estudiante de Desarrollo de Software** | 🤖 **Desarrollo + Inteligencia Artificial**
+💻 **Estudiante de Desarrollo de Software en la Universidad de La Punta**
 
-Actualmente estudio **Desarrollo de Software** y me interesa especialmente el desarrollo de aplicaciones web, la inteligencia artificial y la creación de proyectos propios.
+Me interesa especialmente el desarrollo de aplicaciones web, la inteligencia artificial y la creación de proyectos propios.
 
-Me gusta **aprender construyendo**, experimentar con nuevas tecnologías y utilizar diferentes herramientas para transformar ideas en proyectos funcionales.
-
-Estoy enfocado en seguir creciendo como desarrollador, fortaleciendo mis conocimientos de **Frontend, Backend, Inteligencia Artificial y desarrollo Full Stack**.
+Me gusta experimentar con nuevas tecnologías y utilizar diferentes herramientas para transformar ideas en proyectos funcionales.
 
 ## 🧑‍💻 Sobre mí
 
-* 🎓 Estudiante de **Desarrollo de Software**
-* 🚀 Desarrollo proyectos propios para aprender y aplicar nuevas tecnologías
-* 🌐 Interesado en el desarrollo **Full Stack**
 * 🤖 Conocimientos en **Inteligencia Artificial e IA Generativa**
 * 🧠 Explorando el desarrollo de **Agentes de IA**
 * 🛠️ Utilizo herramientas de **IA aplicadas al desarrollo de software**
-* 📚 Siempre aprendiendo y explorando nuevas tecnologías
 * 💼 Actualmente trabajo en el área administrativa de una institución educativa
 
 ## 🚀 Tecnologías
@@ -47,15 +41,6 @@ Estoy enfocado en seguir creciendo como desarrollador, fortaleciendo mis conocim
   <img src="https://img.shields.io/badge/AI%20Assisted%20Development-FF6F00?style=for-the-badge&logo=githubcopilot&logoColor=white" />
 </p>
 
-**Áreas de interés:**
-
-* 🧠 Inteligencia Artificial
-* ✨ IA Generativa
-* 🤖 Agentes de IA
-* 🔗 Integración de modelos de IA en aplicaciones
-* 🛠️ Herramientas de desarrollo potenciadas con IA
-* 💡 Uso de IA para mejorar productividad y procesos de desarrollo
-
 ### 🧰 Herramientas
 
 <p>
@@ -67,31 +52,6 @@ Estoy enfocado en seguir creciendo como desarrollador, fortaleciendo mis conocim
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
   <img src="https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white" />
 </p>
-
-## 📚 Actualmente aprendiendo
-
-Estoy trabajando constantemente para ampliar mi stack y mejorar mis conocimientos en:
-
-* TypeScript
-* Desarrollo Full Stack
-* Bases de datos
-* APIs REST
-* Arquitectura de software
-* Cloud Computing
-* Inteligencia Artificial aplicada al desarrollo
-* Agentes de IA y automatización
-<!--
-## 📂 Proyectos
-
-Una de mis principales formas de aprender es **crear proyectos propios**.
-
-En mis repositorios podés encontrar proyectos realizados con diferentes tecnologías, desde aplicaciones frontend y APIs hasta aplicaciones Full Stack y experimentos relacionados con Inteligencia Artificial.
-
-> **Aprendo construyendo.** Cada proyecto es una oportunidad para experimentar, resolver problemas y mejorar mis habilidades.
--->
-## 🎯 Objetivo
-
-Mi objetivo es seguir creciendo como **desarrollador de software**, adquirir experiencia construyendo aplicaciones reales y explorar las posibilidades que surgen de combinar **desarrollo de software e Inteligencia Artificial**.
 
 ---
 
